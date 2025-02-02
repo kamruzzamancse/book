@@ -8,7 +8,6 @@
  * Text Domain: smarto-book-plugin
 */
 
-// book gallery plugin class
 class BookGalleryPlugin {
 
     public function __construct() {
