@@ -2,12 +2,13 @@
 /*
  * Plugin Name: Book
  * Description: Custom plugin for managing books with a gallery.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Md. Kamruzzaman
  * Author URI:  https://kamruzzaman.great-site.net/
  * Text Domain: smarto-book-plugin
 */
 
+// book gallery plugin class
 class BookGalleryPlugin {
 
     public function __construct() {
